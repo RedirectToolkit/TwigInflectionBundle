@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "email": "minottoemanuele@gmail.com",
+            "homepage": "http://rdir.io",
+            "name": "Emanuele Minotto"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Rdir\\TwigInflectionBundle\\": "."
+        }
+    },
+    "description": "Symfony 2 Bundle for davedevelopment/twig-inflection",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    },
+    "license": "MIT",
+    "name": "rdir/twig-inflection-bundle",
+    "require": {
+        "davedevelopment/twig-inflection": "^1.0"
+    }
+}
